@@ -1,0 +1,6 @@
+## Deployment Details
+
+Deployment of Contract on ropsten:
+0x971B3c5B65c8B1EB1b2Ce31BCF5eDcD36696D0eA
+
+   > transaction hash:    0xb526af9c6a9ad7ad282265930ef0c39cf3630721c2e709bc3bfd4d8ea63f6ea2

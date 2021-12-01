@@ -1,0 +1,178 @@
+[
+  {
+    "id": 0,
+    "carname":"Acura MDX",
+    "carmodel": "Acura",
+    "picture": "images/2017Acura MDX.jpg",
+    "year": "2017",
+    "mileage": "99,218 mi",
+    "engine": "3.5L V6",
+    "color": "White Diamond Pearl",
+    "price": "$27,988"
+  },
+  {
+    "id": 1,
+    "carname":" Mercedes-Benz AMG C 63",
+    "carmodel": "Mercedes-Benz",
+    "picture": "images/mercedesamgc63.jpg",
+    "year": "2020",
+    "mileage": "18,925 mi.",
+    "engine": "3.5L V6 24V GDI SOHC",
+    "color": "Polar White",
+    "price": "$62,505"
+  },
+  {
+    "id": 2,
+    "carname":"Mercedes-Benz S-Class S 550",
+    "carmodel": "Mercedes-Benz",
+    "picture": "images/MercedesBenzSClassS550.jpg",
+    "year": "2013",
+    "mileage": "95,847 mi.",
+    "engine": "4.7L V8 32V ",
+    "color": "Black",
+    "price": "$25,450"
+  },
+  {
+    "id": 3,
+    "carname":"BMW 740i",
+    "carmodel": "BMW",
+    "picture": "images/BMW740i.jpg",
+    "year": "2019",
+    "mileage": "17,520 mi.",
+    "engine": "3.0L I6",
+    "color": "Alpine White",
+    "price": "$58,988"
+  },
+  {
+    "id": 4,
+    "carname":" 2018 Lexus RX 350",
+    "carmodel": "Lexus",
+    "picture": "images/LexusRX350.jpg",
+    "year": "2018",
+    "mileage": "9,168 mi.",
+    "engine": "3.5L V6",
+    "color": "Polar White",
+    "price": "$44,981"
+  },
+  {
+    "id": 5,
+    "carname":"Genesis G80 2.5T",
+    "carmodel": "Hyundai",
+    "picture": "images/GenesisG80.jpg",
+    "year": "2017",
+    "mileage": "99,218 mi",
+    "engine": "3.5L V6",
+    "color": "Uyuni White",
+    "price": "$54,994"
+  },
+  {
+    "id": 6,
+    "carname":"Subaru Forester Premium",
+    "carmodel": "Subaru",
+    "picture": "images/SubaruForester.jpg",
+    "year": "2018",
+    "mileage": "42,698 mi.",
+    "engine": "2.5L 4 Cyl",
+    "color": "Jasmine Green Metallic",
+    "price": "$20,998"
+  },
+  {
+    "id": 7,
+    "carname":"2014 Toyota Tacoma",
+    "carmodel": "Toyota",
+    "picture": "images/ToyotaTacoma.jpg",
+    "year": "2014",
+    "mileage": "69,692 mi.",
+    "engine": "4.0L V6",
+    "color": "Dark Blue",
+    "price": "$15,888"
+  },
+  {
+    "id": 8,
+    "carname":" 2019 Infiniti QX50 Essential",
+    "carmodel": "Infiniti",
+    "picture": "images/InfinitiQX50.jpg",
+    "year": "2019",
+    "mileage": "28,206 mi.",
+    "engine": "2.0L I4",
+    "color": "Eclipse Black",
+    "price": "$35,700"
+  },
+  {
+    "id": 9,
+    "carname":"2018 Mazda3 Touring",
+    "carmodel": "Mazda",
+    "picture": "images/Mazda3Touring.jpg",
+    "year": "2018",
+    "mileage": "62,511 mi",
+    "engine": "2.5L I4",
+    "color": "Sonic Silver Metallic",
+    "price": "$18,988"
+  },
+  {
+    "id": 10,
+    "carname":"2017 Ford Escape SE",
+    "carmodel": "Ford",
+    "picture": "images/FordEscape.jpg",
+    "year": "2017",
+    "mileage": "85,814 mi.",
+    "engine": "1.5L I4",
+    "color": "Polar White",
+    "price": "$16,998"
+  },
+  {
+    "id": 11,
+    "carname":"Jeep Grand Cherokee SRT",
+    "carmodel": "Jeep",
+    "picture": "images/JeepGrandCherokeeSRT.jpg",
+    "year": "2018",
+    "mileage": "38,044 mi",
+    "engine": "3.5L V6",
+    "color": "Granite Crystal Metallic",
+    "price": "$67,500"
+  },
+  {
+    "id": 12,
+    "carname":"Volvo V60 T5 Premier",
+    "carmodel": "Volvo",
+    "picture": "images/VolvoV60.jpg",
+    "year": "2016",
+    "mileage": "71,609 mi.",
+    "engine": "2.0L I4",
+    "color": "Bright Silver Metallic",
+    "price": "$19,995"
+  },
+  {
+    "id": 13,
+    "carname":"Mercedes-Benz GLC 300 Base",
+    "carmodel": "Mercedes-Benz",
+    "picture": "images/Mercedes-BenzGLC300.jpg",
+    "year": "2019",
+    "mileage": "43,622 mi",
+    "engine": "2.0L I4 ",
+    "color": "Polar White",
+    "price": "$36,900"
+  },
+  {
+    "id": 14,
+    "carname":"Volkswagen Tiguan 2.0T SEL",
+    "carmodel": "Volkswagen",
+    "picture": "images/VolkswagenTiguan.jpg",
+    "year": "2020",
+    "mileage": "10,944 mi.",
+    "engine": "2.0L I4",
+    "color": "Deep Black Pearl Effect",
+    "price": "$34,128"
+  },
+  {
+    "id": 15,
+    "carname":"2016 BMW 528 i",
+    "carmodel": "BMW",
+    "picture": "images/2016BMW528.jpg",
+    "year": "2017",
+    "mileage": "55,084 mi",
+    "engine": "3.5L V6",
+    "color": "Alpine White",
+    "price": "$27,500"
+  }
+]

@@ -1,0 +1,23 @@
+# design_pattern_decisions
+
+
+### Design Patterns Incorporated: ###
+
+#### Access Control Design Patterns  ####
+
+`Ownable`
+
+Contract module which provides a basic access control mechanism, where
+ * there is an account (an owner) that can be granted exclusive access to specific functions.
+
+Used on `addBuyer` function.
+
+
+#### Inheritance and Interfaces  ####
+
+The `AutoSales` contract inherits from the OpenZepplin `Ownable` smart contract which is used through inheritance. It makes available the modifier
+ * `onlyOwner`, which can be applied to functions to restrict their use to the owner.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
